@@ -16,4 +16,4 @@ ggplot(students, aes(x = Hours, y = Math, label = Student)) +
     x = "Hours Studied",
     y = "Math Score"
   ) +
-  theme_minimal()
+  theme_minimal() 
